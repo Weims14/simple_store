@@ -1,0 +1,6 @@
+table: Product
+-id: auto-increment
+-titel: string
+-description: text
+-price: decimal
+-stock_quantity: integer
